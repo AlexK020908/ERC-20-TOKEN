@@ -1,0 +1,5 @@
+tokens that are deployed on a chiain using the erc-20 standard 
+- bascially a smart contract that represents a token 
+- to make a token --> we just make a contract that have methods in the erc-20 standard 
+- the reason why we may want to create an erc-20 is that it can do many things --> like creating an ethereum based token --> can represent currency , shares of a company , loyalty points 
+etc
